@@ -19,6 +19,7 @@ entity Tasks {
         user       : String;
         user1     : String;
         user3     : String;
+        user2     : String;
         
         
 }
