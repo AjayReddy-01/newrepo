@@ -17,4 +17,7 @@ entity Tasks {
         start_date : String;
         end_date   : String;
         user       : String;
+        user1     : String;
+        
+        
 }
